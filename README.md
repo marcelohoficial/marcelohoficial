@@ -1,12 +1,12 @@
 ### Sobre mim
 
-Olá, meu nome é Marcelo Henrique! Sou um engenheiro de software fullstack, sou apaixonado por tecnologia, desáfios e aprender coisas novas, que alais sempre me dão um gás a mais, tenho habilidades e experiências em tecnologias e frameworks. No front end com React js, Vue.js, Next.js, Tailwind CSS, Styled Components, Ant Design, entre outros. E também no back end com Node Js, Express, NestJS, Prisma ORM, MongoDB, SQL, My SQL... Gosto de me aventurar em todas as aréas, para evoluir ainda mais como profissional, tenho conhecimentos em React Native, Swift, Docket, AWS, DevOPS, aos poucos sigo estudando ainda mais.
+Olá, meu nome é Marcelo Henrique! Sou um engenheiro de software fullstack, apaixonado por tecnologias, desafios e novos aprendizados, que sempre me dão um impulso extra. Tenho habilidades e experiências em tecnologias e frameworks. No front end com React js, Vue.js, Next.js, Tailwind CSS, Styled Components, Ant Design, entre outros. E também no back end com Node Js, Express, NestJS, Prisma ORM, MongoDB, SQL, My SQL... Gosto de me arriscar em todas as áreas para me aperfeiçoar ainda mais como profissional. Tenho conhecimento em React Native, Swift, UI/UX, Docker, AWS e DevOPS. Aos poucos, vou-me aprofundando ainda mais.
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelohoficial&layout=compact&langs_count=9&theme=material-palenight"/>
 </div>
 
-#### Você pode ver alguns dos meus projetos
+#### Veja alguns dos meus projetos
 
 [Vue Quiz](https://github.com/marcelohoficial/vue-quiz)<br>
 
