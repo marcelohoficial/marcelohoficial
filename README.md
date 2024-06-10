@@ -8,7 +8,14 @@ Olá, meu nome é Marcelo Henrique! Sou um engenheiro de software fullstack, apa
 
 #### Veja alguns dos meus projetos
 
-[Vue Quiz](https://github.com/marcelohoficial/vue-quiz)<br>
+[Expert Notes](https://github.com/marcelohoficial/expert-notes)<br>
+Expert Notes é um projeto front-end que possibilita armazenar blocos de notas em texto, usando sua voz direto do navegador. <br>
+[Be The Hero](https://github.com/marcelohoficial/be-the-hero)<br>
+Be The Hero um projeto full-stack modelo para um tipo projeto social aonde ONGs e Instituições cadastradas podem informar necessidades como mantimentos por exemplo, e algum usuário que possa ajudar consegue fazer uma doação e ajudar, sendo o herói dessa causa. <br>
+[AirCNC](https://github.com/marcelohoficial/AirCNC)<br>
+AirCNC é um projeto full-stack inspirado em um grande aplicativo do mercado, aonde o intuito do mesmo, conectar pessoas que tem espaços para alugar para desenvolvedores, e os próprios desenvolvedores interessados em um local de trabalho mais formal. <br>
+[Tin-DEV](https://github.com/marcelohoficial/expert-notes)<br>
+TinDev é um projeto full-stack inspirado em um aplicativo de relacionamentos, aonde possíveis recrutadores podem acessar para encontrar desenvolvedores com as stacks que desejam, podendo assim fazer o match ideal para seus interesses.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
